@@ -1,3 +1,6 @@
+摘自：https://twitter.com/0xFatDog/status/1730189598855438721。 感谢@0xFatDog，感兴趣的朋友请关注其twitter
+
+
 0.  打开bitcoin core 软件
 1. 下载并安装磁力链接下载工具qbittorrent https://pc.qq.com/detail/12/detail_23192.html
 2. 打开qbittorrent，左上角从url下载，然后复制这个磁力链接进去 magnet:?xt=urn:btih:7KW5OXSWUQ2EFF57URE42GBRL2XCN5AI&dn=ElectrumX-Data-20231114 下载数据（需要十小时左右）
