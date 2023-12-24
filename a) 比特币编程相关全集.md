@@ -10,3 +10,6 @@ https://github.com/cancerts/study-blockchain-referrence
 master bitcoin online read:
 https://github.com/bitcoinbook/bitcoinbook
 
+[x][important]Best co-read materials:
+https://twitter.com/TimeOfSand/status/1734047194716484025
+https://github.com/btc-study/OP_QUESTION/discussions/10
