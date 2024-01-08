@@ -1,3 +1,7 @@
+---
+description: https://www.youtube.com/watch?v=zXlvkOSVM9M
+---
+
 # 🦜 PART 1 - syncing Bitcoin core, installing ord
 
 如果不想花43分钟看casey和erin打情骂俏，那么我们把这个视频内容摘录一下，再加上我自己的踩坑心得，希望可以让大家少走弯路。再次说明，我只是一个不成功的投资人和一个蹩脚的程序员，因为觉得铭文在未来2-3年都有创业和投资机会而学习，所以对不同投资水平和技术水平的人来说，我写的东西有的可能太浅了，有的可能太深了，还请多多包涵。
